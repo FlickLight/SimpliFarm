@@ -13,7 +13,7 @@
               "conditions": [
                 {
                   "condition": "minecraft:block_state_property",
-                  "block": "tutorialmod:eggplant_crop",
+                  "block": "farm:tomato_crop",
                   "properties": {
                     "age": "6"
                   }
