@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "boat",
+  "key": {
+    "#": {
+      "item": "farm:tomato"
+    },
+    ".": {
+      "item": "minecraft:bowl"
+    },
+    "'": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "pattern": [
+    "#' ",
+    ".  "
+  ],
+  "result": {
+    "item": "farm:tomato_sauce"
+  }
+}

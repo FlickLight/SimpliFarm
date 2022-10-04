@@ -16,6 +16,9 @@ public class ModItems {
     public static final Item TOMATO = registerItem("tomato",
             new Item(new FabricItemSettings().group(ModItemGroup.TOMATO)
                     .food(new FoodComponent.Builder().hunger(4).saturationModifier(4f).build())));
+    public static final Item TOMATO_SAUCE = registerItem("tomato_sauce",
+            new Item(new FabricItemSettings().group(ModItemGroup.TOMATO)
+                    .food(new FoodComponent.Builder().hunger(1).saturationModifier(4f).build())));
 
 
 
